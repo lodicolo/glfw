@@ -18,6 +18,15 @@ MinSizeRel
 RelWithDebInfo
 *.opensdf
 
+# Premake clutter
+*.cmake
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
 # Xcode clutter
 GLFW.build
 GLFW.xcodeproj
